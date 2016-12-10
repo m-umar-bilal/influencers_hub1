@@ -1,0 +1,16 @@
+c:\users\umarbilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\TextPreProcessing.exe.config
+c:\users\umarbilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\TextPreProcessing.exe
+c:\users\umarbilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\TextPreProcessing.pdb
+c:\users\umarbilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\MongoDB.Bson.dll
+c:\users\umarbilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\umarbilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\MongoDB.Driver.dll
+c:\users\umarbilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\MongoDB.Bson.xml
+c:\users\umarbilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\MongoDB.Driver.xml
+c:\users\umarbilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\umarbilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\obj\Debug\TextPreProcessing.csprojResolveAssemblyReference.cache
+c:\users\umarbilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\obj\Debug\TextPreProcessing.exe
+c:\users\umarbilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\obj\Debug\TextPreProcessing.pdb
+C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\HtmlAgilityPack.dll
+C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\HtmlAgilityPack.xml
+C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\big.txt
