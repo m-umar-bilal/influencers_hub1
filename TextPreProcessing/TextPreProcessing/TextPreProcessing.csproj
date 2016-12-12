@@ -71,6 +71,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SpellChecker.cs" />
     <Compile Include="TrainingData.cs" />
+    <Compile Include="Tweets.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

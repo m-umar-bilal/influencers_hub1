@@ -64,13 +64,33 @@ namespace TextPreProcessing
          }*/
         static void Main(string[] args)
         {
-            TrainingData c = new TrainingData("TV & Movies");
-          
-            foreach (var s in c.WordCount.Keys)
+            // TrainingData c = new TrainingData("TV & Movies");
+
+            //  foreach (var s in c.WordCount.Keys)
+            //  {
+            //      Console.WriteLine(s+": "+c.WordCount[s]); 
+            //  }
+            // Console.ReadLine();
+            Tweets t = new Tweets();
+            Task.Run(async () =>
             {
-                Console.WriteLine(s+": "+c.WordCount[s]); 
-            }
-            Console.ReadLine();
+                try
+                {
+                    // Start the task.
+                    await t.StoreCleanedTweetsOfCategory("SportsGamingTweets", "SportsGamingCTweets"); 
+
+                    // Await the task.
+
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                    // Perform cleanup here.
+                }
+
+            }).Wait();
+            Console.WriteLine();
+          
         }
     }
     }
