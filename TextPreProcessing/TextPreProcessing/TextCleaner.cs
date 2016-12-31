@@ -45,6 +45,8 @@ namespace TextPreProcessing
         {
             Dictionary<string, bool> _stops = new Dictionary<string, bool>
     {
+    { "u", true },
+    { "r", true },
     { "a", true },
     { "about", true },
     { "above", true },

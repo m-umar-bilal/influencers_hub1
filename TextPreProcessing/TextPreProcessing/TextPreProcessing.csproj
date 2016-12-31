@@ -65,7 +65,6 @@
     <Compile Include="Categories.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="DBConnector.cs" />
-    <Compile Include="DefaultableDictionary.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="TextCleaner.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
