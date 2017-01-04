@@ -14,3 +14,13 @@ C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextP
 C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\HtmlAgilityPack.pdb
 C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\HtmlAgilityPack.xml
 C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\big.txt
+C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\LinqToTwitter.AspNet.dll
+C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\LinqToTwitter.net.dll
+C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\System.Reactive.Core.dll
+C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\System.Reactive.Linq.dll
+C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\System.Reactive.Core.xml
+C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\System.Reactive.Linq.xml
+C:\Users\UmarBilal\documents\visual studio 2015\Projects\TextPreProcessing\TextPreProcessing\bin\Debug\System.Reactive.PlatformServices.xml
